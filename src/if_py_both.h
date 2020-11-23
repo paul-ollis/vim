@@ -4669,14 +4669,16 @@ SetBufferLineList(
 	// to vim.
 	PyMem_Free(array);
 
-	// Adjust marks. Invalidate any which lie in the
-	// changed range, and move any in the remainder of the buffer.
-	// Only adjust marks if we managed to switch to a window that holds
-	// the buffer, otherwise line numbers will be invalid.
+	// Adjust marks. Invalidate any which lie in the changed range, and
+	// move any in the remainder of the buffer. Only adjust marks and call
+	// changed_lines if we managed to switch to a window that holds the
+	// buffer, otherwise line numbers will be invalid.
 	if (save_curbuf.br_buf == NULL)
+	{
 	    mark_adjust((linenr_T)lo, (linenr_T)(hi - 1),
 						  (long)MAXLNUM, (long)extra);
-	changed_lines((linenr_T)lo, 0, (linenr_T)hi, (long)extra);
+	    changed_lines((linenr_T)lo, 0, (linenr_T)hi, (long)extra);
+	}
 
 	if (buf == curbuf && (save_curwin != NULL
 					   || save_curbuf.br_buf == NULL))
