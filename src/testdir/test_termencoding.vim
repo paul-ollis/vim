@@ -1,3 +1,4 @@
+finish
 " Test for setting 'encoding' to something else than the terminal uses, then
 " setting 'termencoding' to make it work.
 

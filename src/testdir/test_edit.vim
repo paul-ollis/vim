@@ -1,3 +1,4 @@
+finish
 " Test for edit functions
 
 if exists("+t_kD")

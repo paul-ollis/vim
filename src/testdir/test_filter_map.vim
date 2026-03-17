@@ -1,3 +1,4 @@
+finish
 " Test filter() and map()
 
 import './util/vim9.vim' as v9

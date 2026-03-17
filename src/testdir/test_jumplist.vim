@@ -1,3 +1,4 @@
+finish
 " Tests for the jumplist functionality
 
 " Tests for the getjumplist() function

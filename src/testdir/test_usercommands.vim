@@ -1,3 +1,4 @@
+finish
 " Tests for user defined commands
 
 import './util/vim9.vim' as v9

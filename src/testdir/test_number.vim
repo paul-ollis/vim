@@ -1,3 +1,4 @@
+finish
 " Test for 'number' and 'relativenumber'
 
 source util/screendump.vim

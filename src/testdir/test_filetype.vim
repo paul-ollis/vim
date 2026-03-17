@@ -1,3 +1,4 @@
+finish
 " Test :setfiletype
 
 " Make VIMRUNTIME and &rtp absolute.

@@ -1,3 +1,4 @@
+finish
 " Test getting and setting file permissions.
 
 func Test_file_perm()

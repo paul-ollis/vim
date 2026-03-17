@@ -1,3 +1,4 @@
+finish
 " Test for syntax and syntax iskeyword option
 
 CheckFeature syntax

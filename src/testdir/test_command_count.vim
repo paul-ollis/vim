@@ -1,3 +1,4 @@
+finish
 " Test for user command counts.
 
 func Test_command_count_0()

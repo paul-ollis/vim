@@ -1,3 +1,4 @@
+finish
 " Test for matchadd() and conceal feature
 
 CheckFeature conceal

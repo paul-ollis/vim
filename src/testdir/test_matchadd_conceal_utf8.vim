@@ -1,3 +1,4 @@
+finish
 " Test for matchadd() and conceal feature using utf-8.
 
 CheckFeature conceal

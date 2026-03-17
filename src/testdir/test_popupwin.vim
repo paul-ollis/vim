@@ -1,3 +1,4 @@
+finish
 " Tests for popup windows
 
 CheckFeature popupwin

@@ -1,3 +1,4 @@
+finish
 " Test for modeless selection
 
 " This only works for Unix in a terminal

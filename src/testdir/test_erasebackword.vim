@@ -1,3 +1,4 @@
+finish
 " Test for i_CTRL-W
 
 func Test_erasebackword()

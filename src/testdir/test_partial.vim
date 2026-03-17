@@ -1,3 +1,4 @@
+finish
 " Test binding arguments to a Funcref.
  
 func MyFunc(arg1, arg2, arg3)

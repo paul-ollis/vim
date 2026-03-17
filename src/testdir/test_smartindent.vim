@@ -1,3 +1,4 @@
+finish
 " Tests for smartindent
 
 " Tests for not doing smart indenting when it isn't set.

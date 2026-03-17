@@ -1,3 +1,4 @@
+finish
 " Test for displaying stuff
 
 if !has('gui_running') && has('unix')

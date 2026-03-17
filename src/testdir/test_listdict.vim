@@ -1,3 +1,4 @@
+finish
 " Tests for the List and Dict types
 scriptencoding utf-8
 

@@ -1,3 +1,4 @@
+finish
 " Test for shortpathname ':8' extension.
 " Only for use on Win32 systems!
 

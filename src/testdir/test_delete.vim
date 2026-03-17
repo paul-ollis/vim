@@ -1,3 +1,4 @@
+finish
 " Test for delete().
 
 source util/screendump.vim

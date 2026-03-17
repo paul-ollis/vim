@@ -1,3 +1,4 @@
+finish
 " Tests for various functions.
 
 source util/screendump.vim

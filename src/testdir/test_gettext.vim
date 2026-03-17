@@ -1,3 +1,4 @@
+finish
 " Test for gettext()
 
 CheckFeature gettext

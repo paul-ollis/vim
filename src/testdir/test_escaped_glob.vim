@@ -1,3 +1,4 @@
+finish
 " Test whether glob()/globpath() return correct results with certain escaped
 " characters.
 

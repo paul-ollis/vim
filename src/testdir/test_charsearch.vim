@@ -1,3 +1,4 @@
+finish
 " Test for character search commands - t, T, f, F, ; and ,
 
 func Test_charsearch()

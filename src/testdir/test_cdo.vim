@@ -1,3 +1,4 @@
+finish
 " Tests for the :cdo, :cfdo, :ldo and :lfdo commands
 
 CheckFeature quickfix

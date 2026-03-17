@@ -1,3 +1,4 @@
+finish
 " Test findfile() and finddir()
 
 import './util/vim9.vim' as v9

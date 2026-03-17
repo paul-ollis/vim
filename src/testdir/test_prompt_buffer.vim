@@ -1,3 +1,4 @@
+finish
 " Tests for setting 'buftype' to "prompt"
 
 CheckFeature channel

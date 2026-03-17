@@ -1,3 +1,4 @@
+finish
 " Tests for autoload
 
 set runtimepath=./sautest

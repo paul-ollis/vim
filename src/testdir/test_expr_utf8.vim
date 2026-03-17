@@ -1,3 +1,4 @@
+finish
 " Tests for expressions using utf-8.
 
 func Test_strgetchar()

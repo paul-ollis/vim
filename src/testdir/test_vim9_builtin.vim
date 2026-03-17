@@ -1,3 +1,4 @@
+finish
 " Test using builtin functions in the Vim9 script language.
 
 source util/screendump.vim

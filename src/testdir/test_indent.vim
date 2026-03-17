@@ -1,3 +1,4 @@
+finish
 " Test for various indent options
 
 func Test_preserveindent()

@@ -1,3 +1,4 @@
+finish
 " Tests for tagjump (tags and special searches)
 
 source util/screendump.vim

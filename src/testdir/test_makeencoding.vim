@@ -1,3 +1,4 @@
+finish
 " Tests for 'makeencoding'.
 
 CheckFeature quickfix

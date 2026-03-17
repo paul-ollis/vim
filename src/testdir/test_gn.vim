@@ -1,3 +1,4 @@
+finish
 " Test for gn command
 
 func Test_gn_command()

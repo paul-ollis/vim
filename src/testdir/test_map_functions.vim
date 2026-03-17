@@ -1,3 +1,4 @@
+finish
 " Tests for maparg(), mapcheck(), mapset(), maplist()
 " Also test utf8 map with a 0x80 byte.
 

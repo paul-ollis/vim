@@ -1,3 +1,4 @@
+finish
 " Test spell checking
 " Note: this file uses latin1 encoding, but is used with utf-8 encoding.
 

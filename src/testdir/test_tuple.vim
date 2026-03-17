@@ -1,3 +1,4 @@
+finish
 " Tests for the Tuple types
 
 import './util/vim9.vim' as v9

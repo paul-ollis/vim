@@ -1,3 +1,4 @@
+finish
 " Tests for the getbufinfo(), getwininfo() and gettabinfo() functions
 
 func Test_getbufwintabinfo()

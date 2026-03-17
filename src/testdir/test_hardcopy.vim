@@ -1,3 +1,4 @@
+finish
 " Test :hardcopy
 
 func Test_printoptions()

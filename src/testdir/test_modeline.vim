@@ -1,3 +1,4 @@
+finish
 " Tests for parsing the modeline.
 
 func Test_modeline_invalid()

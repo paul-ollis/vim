@@ -1,3 +1,4 @@
+finish
 " Tests for case-insensitive UTF-8 comparisons (utf_strnicmp() in mbyte.c)
 " Also test "g~ap".
 

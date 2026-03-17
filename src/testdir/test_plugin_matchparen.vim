@@ -1,3 +1,4 @@
+finish
 " Test for the matchparen plugin
 
 if !has('gui_running') && has('unix')

@@ -1,3 +1,4 @@
+finish
 " Test for flatting list.
 
 func Test_flatten()

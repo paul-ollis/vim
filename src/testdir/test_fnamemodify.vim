@@ -1,3 +1,4 @@
+finish
 " Test filename modifiers.
 
 func Test_fnamemodify()

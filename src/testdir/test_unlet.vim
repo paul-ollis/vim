@@ -1,3 +1,4 @@
+finish
 " Tests for :unlet
 
 func Test_read_only()

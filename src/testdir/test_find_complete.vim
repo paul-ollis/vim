@@ -1,3 +1,4 @@
+finish
 " Tests for the 'find' command completion.
 
 " Do all the tests in a separate window to avoid E211 when we recursively

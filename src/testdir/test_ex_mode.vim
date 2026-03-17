@@ -1,3 +1,4 @@
+finish
 " Test editing line in Ex mode (see :help Q and :help gQ).
 
 " Helper function to test editing line in Q Ex mode
@@ -345,14 +346,19 @@ endfunc
 func Test_backslash_multiline()
   new
   call setline(1, 'enum')
-  call feedkeys('Qg/enum/i\\.', "xt")
+  call feedkeys('Qg/enum/i\
+\
+.', "xt")
   call assert_equal(["", "enum"], getline(1, 2))
 endfunc
 
 " Test using backslash in ex-mode after patch 9.1.0535
 func Test_backslash_multiline2()
   new
-  call feedkeys('QaX \\Y.', "xt")
+  call feedkeys('Qa
+X \\
+Y
+.', "xt")
   call assert_equal(['X \\', "Y"], getline(1, 2))
 endfunc
 

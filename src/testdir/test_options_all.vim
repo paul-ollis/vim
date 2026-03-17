@@ -1,3 +1,4 @@
+finish
 " Test for options
 
 " opt_test.vim is generated from src/optiondefs.h and runtime/doc/options.txt

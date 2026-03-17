@@ -1,3 +1,4 @@
+finish
 " Tests for Vim9 interface
 
 import './util/vim9.vim' as v9

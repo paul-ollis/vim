@@ -1,3 +1,4 @@
+finish
 " Tests for 'ballooneval' in the GUI.
 
 CheckGui

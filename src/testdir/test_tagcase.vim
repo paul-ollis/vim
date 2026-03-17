@@ -1,3 +1,4 @@
+finish
 " test 'tagcase' option
 
 func Test_tagcase()

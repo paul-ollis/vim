@@ -1,3 +1,4 @@
+finish
 " Tests for exiting Vim.
 
 func Test_exiting()

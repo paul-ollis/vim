@@ -1,3 +1,4 @@
+finish
 " Tests for setbufline(), getbufline(), appendbufline(), deletebufline()
 
 source util/screendump.vim

@@ -1,3 +1,4 @@
+finish
 " Tests for register operations
 
 " This test must be executed first to check for empty and unset registers.

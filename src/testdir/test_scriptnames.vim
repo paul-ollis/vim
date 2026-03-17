@@ -1,3 +1,4 @@
+finish
 
 " Test for the :scriptnames command
 func Test_scriptnames()

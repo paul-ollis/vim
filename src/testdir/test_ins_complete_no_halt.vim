@@ -1,3 +1,4 @@
+finish
 " Test insert mode completion does not get stuck when looping around.
 " In a separate file to avoid the settings to leak to other test cases.
 

@@ -1,3 +1,4 @@
+finish
 " Tests for Perl interface
 
 CheckFeature perl

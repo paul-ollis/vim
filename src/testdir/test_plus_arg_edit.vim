@@ -1,3 +1,4 @@
+finish
 " Tests for complicated + argument to :edit command
 
 function Test_edit()

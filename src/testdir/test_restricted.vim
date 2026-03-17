@@ -1,3 +1,4 @@
+finish
 " Test for "rvim" or "vim -Z"
 
 "if has('win32') && has('gui')

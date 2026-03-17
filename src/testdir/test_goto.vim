@@ -1,3 +1,4 @@
+finish
 " Test commands that jump somewhere.
 
 " Create a new buffer using "lines" and place the cursor on the word after the

@@ -1,3 +1,4 @@
+finish
 " Test for MzScheme interface and mzeval() function
 
 CheckFeature mzscheme

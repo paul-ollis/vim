@@ -1,3 +1,4 @@
+finish
 " Tests for 'balloonevalterm'.
 " A few tests only work in the terminal.
 

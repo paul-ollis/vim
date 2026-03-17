@@ -1,3 +1,4 @@
+finish
 " Test for the --remote functionality
 
 CheckFeature clientserver

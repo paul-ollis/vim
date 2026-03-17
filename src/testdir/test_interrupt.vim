@@ -1,3 +1,4 @@
+finish
 " Test behavior of interrupt()
 
 let s:bufwritepre_called = 0

@@ -1,3 +1,4 @@
+finish
 " tests for 'langmap'
 
 CheckFeature langmap

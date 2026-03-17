@@ -1,3 +1,4 @@
+finish
 " Tests for the terminal window.
 " This is split in two, because it can take a lot of time.
 " See test_terminal.vim and test_terminal3.vim for further tests.

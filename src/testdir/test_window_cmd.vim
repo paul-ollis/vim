@@ -1,3 +1,4 @@
+finish
 " Tests for window cmd (:wincmd, :split, :vsplit, :resize and etc...)
 
 source util/screendump.vim

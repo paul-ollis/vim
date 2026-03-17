@@ -1,3 +1,4 @@
+finish
 " Tests for the substitute (:s) command
 
 source util/screendump.vim

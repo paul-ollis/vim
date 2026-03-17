@@ -1,3 +1,4 @@
+finish
 " Test for v:hlsearch
 
 source util/screendump.vim

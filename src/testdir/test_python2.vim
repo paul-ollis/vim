@@ -1,3 +1,4 @@
+finish
 " Test for python 2 commands.
 
 CheckFeature python

@@ -1,3 +1,4 @@
+finish
 " Tests for the Tcl interface.
 
 CheckFeature tcl

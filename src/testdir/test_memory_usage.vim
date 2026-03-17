@@ -1,3 +1,4 @@
+finish
 " Tests for memory usage.
 
 CheckFeature terminal

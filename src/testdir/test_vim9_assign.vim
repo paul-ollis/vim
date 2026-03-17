@@ -1,3 +1,4 @@
+finish
 " Test Vim9 assignments
 
 import './util/vim9.vim' as v9

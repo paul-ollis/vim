@@ -1,3 +1,4 @@
+finish
 " Test for the new-tutor plugin
 
 source util/screendump.vim

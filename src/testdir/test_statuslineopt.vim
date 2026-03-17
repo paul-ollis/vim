@@ -1,3 +1,4 @@
+finish
 " Test 'statuslineopt' with 'statusline'
 "
 

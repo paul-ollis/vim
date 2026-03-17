@@ -1,3 +1,4 @@
+finish
 " Tests for the backup function
 
 func Test_backup()

@@ -1,3 +1,4 @@
+finish
 " Tests for the ":uniq" command.
 
 " Tests for the ":uniq" command.

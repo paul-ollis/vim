@@ -1,3 +1,4 @@
+finish
 " Tests for :messages, :echomsg, :echoerr
 
 source util/screendump.vim

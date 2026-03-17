@@ -1,3 +1,4 @@
+finish
 " Test Ex := command.
 
 func Test_ex_equal()

@@ -1,3 +1,4 @@
+finish
 " Test various aspects of the Vim script language.
 " Most of this was formerly in test49.vim (developed by Servatius Brandt
 " <Servatius.Brandt@fujitsu-siemens.com>)

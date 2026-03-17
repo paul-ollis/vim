@@ -1,3 +1,4 @@
+finish
 " Tests for ruby interface
 
 CheckFeature ruby

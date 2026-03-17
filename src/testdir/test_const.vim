@@ -1,3 +1,4 @@
+finish
 " Test for :const
 
 func s:noop()

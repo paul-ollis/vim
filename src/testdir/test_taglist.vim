@@ -1,3 +1,4 @@
+finish
 " test taglist(), tagfiles() functions and :tags command
 
 func Test_taglist()

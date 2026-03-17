@@ -1,3 +1,4 @@
+finish
 " Tests for 'listchars' display with 'list' and :list
 
 source util/screendump.vim

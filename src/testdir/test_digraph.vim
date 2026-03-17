@@ -1,3 +1,4 @@
+finish
 " Tests for digraphs
 
 CheckFeature digraphs

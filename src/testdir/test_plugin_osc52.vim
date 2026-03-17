@@ -1,3 +1,4 @@
+finish
 " Test for the OSC 52 plugin
 
 CheckFeature clipboard_provider

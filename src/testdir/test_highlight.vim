@@ -1,3 +1,4 @@
+finish
 " Tests for ":highlight" and highlighting.
 
 source util/screendump.vim

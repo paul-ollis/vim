@@ -1,3 +1,4 @@
+finish
 " Tests for various Visual modes.
 
 source util/screendump.vim

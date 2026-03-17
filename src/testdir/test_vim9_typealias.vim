@@ -1,3 +1,4 @@
+finish
 " Test Vim9 type aliases
 
 import './util/vim9.vim' as v9

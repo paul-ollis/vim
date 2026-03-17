@@ -1,3 +1,4 @@
+finish
 " Tests for expand()
 
 let s:sfile = expand('<sfile>')

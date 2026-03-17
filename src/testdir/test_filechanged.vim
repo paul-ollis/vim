@@ -1,3 +1,4 @@
+finish
 " Tests for when a file was changed outside of Vim.
 
 func Test_FileChangedShell_reload()

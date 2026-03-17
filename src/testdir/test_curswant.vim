@@ -1,3 +1,4 @@
+finish
 " Tests for not changing curswant
 
 func Test_curswant()

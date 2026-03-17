@@ -1,3 +1,4 @@
+finish
 " Tests for saving/loading a file with some lines ending in
 " CTRL-M, some not
 

@@ -1,3 +1,4 @@
+finish
 " Test for user functions.
 " Also test an <expr> mapping calling a function.
 " Also test that a builtin function cannot be replaced.

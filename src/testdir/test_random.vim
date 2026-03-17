@@ -1,3 +1,4 @@
+finish
 " Tests for srand() and rand()
 
 func Test_Rand()

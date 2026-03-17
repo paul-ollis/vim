@@ -1,3 +1,4 @@
+finish
 " Test for Vim9 script with failures, causing memory leaks to be reported.
 " The leaks happen after a fork() and can be ignored.
 
@@ -57,4 +58,3 @@ func Test_partial_call_fails()
   call assert_equal('yes', caught)
   delfunc g:NextItem__
 endfunc
-

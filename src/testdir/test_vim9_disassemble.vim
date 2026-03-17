@@ -1,3 +1,4 @@
+finish
 " Test the :disassemble command, and compilation as a side effect
 
 import './util/vim9.vim' as v9

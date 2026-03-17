@@ -1,3 +1,4 @@
+finish
 " Test that the system menu can be loaded.
 
 CheckFeature menu

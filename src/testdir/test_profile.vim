@@ -1,3 +1,4 @@
+finish
 " Test Vim profiler
 
 CheckFeature profile

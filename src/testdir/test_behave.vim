@@ -1,3 +1,4 @@
+finish
 " Test the :behave command
 
 func Test_behave()

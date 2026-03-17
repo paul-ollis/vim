@@ -1,3 +1,4 @@
+finish
 " Tests for character input and feedkeys() function.
 
 func Test_feedkeys_x_with_empty_string()

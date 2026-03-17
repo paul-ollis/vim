@@ -1,3 +1,4 @@
+finish
 " Test 'winfixbuf'
 
 " Find the number of open windows in the current tab

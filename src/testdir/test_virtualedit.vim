@@ -1,3 +1,4 @@
+finish
 " Tests for 'virtualedit'.
 
 func Test_yank_move_change()

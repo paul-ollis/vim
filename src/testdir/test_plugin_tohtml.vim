@@ -1,3 +1,4 @@
+finish
 " Tests for Vim :TOhtml
 
 func s:setup_basic(src_name)

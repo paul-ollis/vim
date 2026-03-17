@@ -1,3 +1,4 @@
+finish
 " Test for JSON functions.
 
 let s:json1 = '"str\"in\\g"'

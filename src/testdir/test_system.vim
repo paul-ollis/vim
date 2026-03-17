@@ -1,3 +1,4 @@
+finish
 " Tests for system() and systemlist()
 
 func Test_System()

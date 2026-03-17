@@ -1,3 +1,4 @@
+finish
 " Test for timers
 
 CheckFeature timers

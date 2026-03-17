@@ -1,3 +1,4 @@
+finish
 " Test for the search command
 
 source util/screendump.vim

@@ -1,3 +1,4 @@
+finish
 " Tests for :help
 
 import './util/vim9.vim' as v9

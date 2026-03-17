@@ -1,3 +1,4 @@
+finish
 " Tests for the swap feature
 
 func s:swapname()

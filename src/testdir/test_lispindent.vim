@@ -1,3 +1,4 @@
+finish
 " Tests for 'lispwords' settings being global-local.
 " And  other lisp indent stuff.
 

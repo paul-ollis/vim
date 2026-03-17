@@ -1,3 +1,4 @@
+finish
 " Tests for Vim buffer
 
 " Test for the :bunload command with an offset

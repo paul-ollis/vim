@@ -1,3 +1,4 @@
+finish
 " Test for getstacktrace() and v:stacktrace
 
 import './util/vim9.vim' as v9

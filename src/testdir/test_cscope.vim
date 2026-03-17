@@ -1,3 +1,4 @@
+finish
 " Test for cscope commands.
 
 CheckFeature cscope

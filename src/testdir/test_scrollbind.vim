@@ -1,3 +1,4 @@
+finish
 " Test for 'scrollbind' causing an unexpected scroll of one of the windows.
 
 func Test_scrollbind()

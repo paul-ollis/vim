@@ -1,3 +1,4 @@
+finish
 " Tests for 'conceal'.
 
 CheckFeature conceal

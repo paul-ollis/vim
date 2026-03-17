@@ -1,3 +1,4 @@
+finish
 " Test for spell checking with 'encoding' set to utf-8
 
 CheckFeature spell

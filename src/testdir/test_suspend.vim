@@ -1,3 +1,4 @@
+finish
 " Test :suspend
 
 func CheckSuspended(buf, fileExists)

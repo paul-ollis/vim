@@ -1,3 +1,4 @@
+finish
 " Test for options
 
 scriptencoding utf-8

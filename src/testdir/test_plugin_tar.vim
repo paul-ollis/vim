@@ -1,3 +1,4 @@
+finish
 vim9script
 
 CheckExecutable tar

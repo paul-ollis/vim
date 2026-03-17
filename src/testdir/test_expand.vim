@@ -1,3 +1,4 @@
+finish
 " Test for expanding file names
 
 func Test_with_directories()

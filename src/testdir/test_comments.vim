@@ -1,3 +1,4 @@
+finish
 " Tests for the various flags in the 'comments' option
 
 " Test for the 'n' flag in 'comments'

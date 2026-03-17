@@ -1,3 +1,4 @@
+finish
 " Tests for defining text property types and adding text properties to the
 " buffer.
 

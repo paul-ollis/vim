@@ -1,3 +1,4 @@
+finish
 " Test for insert completion
 
 source util/screendump.vim

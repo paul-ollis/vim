@@ -1,3 +1,4 @@
+finish
 " Tests for the :source command.
 
 func Test_source_autocmd()

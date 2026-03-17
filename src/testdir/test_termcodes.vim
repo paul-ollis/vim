@@ -1,3 +1,4 @@
+finish
 " Tests for decoding escape sequences sent by the terminal.
 
 " This only works for Unix in a terminal

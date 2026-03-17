@@ -1,3 +1,4 @@
+finish
 " Tests for the exists() function
 
 import './util/vim9.vim' as v9

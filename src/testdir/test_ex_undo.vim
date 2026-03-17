@@ -1,3 +1,4 @@
+finish
 " Tests for :undo
 
 func Test_ex_undo()

@@ -1,3 +1,4 @@
+finish
 " Tests for regexp in latin1 encoding
 
 set encoding=latin1

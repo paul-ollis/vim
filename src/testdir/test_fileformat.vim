@@ -1,3 +1,4 @@
+finish
 " Test for 'fileformat'
 
 " Test behavior of fileformat after bwipeout of last buffer

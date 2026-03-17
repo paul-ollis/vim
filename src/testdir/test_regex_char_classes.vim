@@ -1,3 +1,4 @@
+finish
 " Tests for regexp with backslash and other special characters inside []
 " Also test backslash for hex/octal numbered character.
 

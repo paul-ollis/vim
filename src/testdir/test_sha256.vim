@@ -1,3 +1,4 @@
+finish
 " Tests for the sha256() function.
 
 CheckFeature cryptv

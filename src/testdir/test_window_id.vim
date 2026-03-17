@@ -1,3 +1,4 @@
+finish
 " Test using the window ID.
 
 func Test_win_getid()

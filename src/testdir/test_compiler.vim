@@ -1,3 +1,4 @@
+finish
 " Test the :compiler command
 
 func Test_compiler()

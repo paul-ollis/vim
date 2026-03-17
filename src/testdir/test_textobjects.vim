@@ -1,3 +1,4 @@
+finish
 " Test for textobjects
 
 func CpoM(line, useM, expected)

@@ -1,3 +1,4 @@
+finish
 " Test 'statusline'
 "
 " Not tested yet:

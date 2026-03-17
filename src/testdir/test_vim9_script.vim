@@ -1,3 +1,4 @@
+finish
 " Test various aspects of the Vim9 script language.
 
 import './util/vim9.vim' as v9

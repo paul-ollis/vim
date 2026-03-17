@@ -1,3 +1,4 @@
+finish
 " Tests for expressions.
 
 import './util/vim9.vim' as v9

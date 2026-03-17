@@ -1,3 +1,4 @@
+finish
 " Tests for the preview window
 
 CheckFeature quickfix

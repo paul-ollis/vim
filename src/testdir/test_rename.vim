@@ -1,3 +1,4 @@
+finish
 " Test rename()
 
 func Test_rename_file_to_file()

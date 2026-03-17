@@ -1,3 +1,4 @@
+finish
 " Tests for the history functions
 
 CheckFeature cmdline_hist

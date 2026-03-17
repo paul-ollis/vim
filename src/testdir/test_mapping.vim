@@ -1,3 +1,4 @@
+finish
 " Tests for mappings and abbreviations
 
 source util/screendump.vim

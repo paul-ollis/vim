@@ -1,3 +1,4 @@
+finish
 " Tests for startup using utf-8.
 
 source util/screendump.vim

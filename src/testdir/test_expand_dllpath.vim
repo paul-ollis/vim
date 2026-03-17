@@ -1,3 +1,4 @@
+finish
 " Test for expanding dllpath options
 
 func s:test_expand_dllpath(optname)

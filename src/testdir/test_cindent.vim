@@ -1,3 +1,4 @@
+finish
 " Test for cinoptions and cindent
 
 def Test_cino_hash()

@@ -1,3 +1,4 @@
+finish
 " Test for the termdebug plugin
 
 source util/screendump.vim

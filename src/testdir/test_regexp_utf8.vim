@@ -1,3 +1,4 @@
+finish
 " Tests for regexp in utf8 encoding
 
 func s:equivalence_test()

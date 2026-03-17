@@ -1,3 +1,4 @@
+finish
 " Tests for various Ex commands.
 
 source util/screendump.vim

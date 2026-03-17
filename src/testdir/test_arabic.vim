@@ -1,3 +1,4 @@
+finish
 " Simplistic testing of Arabic mode.
 " NOTE: This just checks if the code works. If you know Arabic please add
 " functional tests that check the shaping works with real text.

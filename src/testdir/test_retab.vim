@@ -1,3 +1,4 @@
+finish
 " Test :retab
 
 func SetUp()

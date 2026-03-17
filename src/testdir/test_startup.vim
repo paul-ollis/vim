@@ -1,3 +1,4 @@
+finish
 " Tests for startup.
 
 source util/screendump.vim

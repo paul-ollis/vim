@@ -1,3 +1,4 @@
+finish
 " Tests for the :checkpath command
 
 " Test for 'include' without \zs or \ze

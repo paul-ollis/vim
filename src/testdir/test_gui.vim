@@ -1,3 +1,4 @@
+finish
 " Tests specifically for the GUI
 
 CheckCanRunGui

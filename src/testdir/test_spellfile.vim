@@ -1,3 +1,4 @@
+finish
 " Test for commands that operate on the spellfile.
 
 CheckFeature spell

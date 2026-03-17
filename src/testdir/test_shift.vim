@@ -1,3 +1,4 @@
+finish
 " Test shifting lines with :> and :<
 
 func Test_ex_shift_right()

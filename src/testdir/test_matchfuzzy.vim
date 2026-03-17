@@ -1,3 +1,4 @@
+finish
 " Tests for fuzzy matching
 
 " Test for matchfuzzy()

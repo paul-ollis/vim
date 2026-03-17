@@ -1,3 +1,4 @@
+finish
 " Test for various Normal mode commands
 
 import './util/vim9.vim' as v9

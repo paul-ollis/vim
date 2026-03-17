@@ -1,3 +1,4 @@
+finish
 " *-register (quotestar) tests
 
 CheckFeature clipboard_working

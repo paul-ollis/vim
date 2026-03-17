@@ -1,3 +1,4 @@
+finish
 " Test for the xxd command
 
 source util/screendump.vim

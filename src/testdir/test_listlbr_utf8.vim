@@ -1,3 +1,4 @@
+finish
 " Test for linebreak and list option in utf-8 mode
 
 set encoding=utf-8

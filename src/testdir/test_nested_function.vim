@@ -1,3 +1,4 @@
+finish
 " Tests for nested functions
 
 func NestedFunc()

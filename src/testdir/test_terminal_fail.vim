@@ -1,3 +1,4 @@
+finish
 " This test is in a separate file, because it usually causes reports for memory
 " leaks under valgrind.  That is because when fork/exec fails memory is not
 " freed.  Since the process exits right away it's not a real leak.

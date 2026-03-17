@@ -1,3 +1,4 @@
+finish
 " Tests for tabpanel
 
 source util/screendump.vim

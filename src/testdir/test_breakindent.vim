@@ -1,3 +1,4 @@
+finish
 " Test for breakindent
 "
 " Note: if you get strange failures when adding new tests, it might be that

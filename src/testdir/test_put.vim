@@ -1,3 +1,4 @@
+finish
 " Tests for put commands, e.g. ":put", "p", "gp", "P", "gP", etc.
 
 source util/screendump.vim
@@ -229,7 +230,9 @@ func Test_put_visual_mode()
   set selection=exclusive
   exe "norm o\t"
   m0
-  sil! norm pp
+  sil! norm 
+p
+p
 
   bwipe!
   set selection&

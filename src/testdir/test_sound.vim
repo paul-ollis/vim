@@ -1,3 +1,4 @@
+finish
 " Tests for the sound feature
 
 CheckFeature sound

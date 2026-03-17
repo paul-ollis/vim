@@ -1,3 +1,4 @@
+finish
 CheckNotMac
 CheckFeature gettext
 

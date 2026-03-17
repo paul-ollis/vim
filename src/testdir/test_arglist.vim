@@ -1,3 +1,4 @@
+finish
 " Test argument list commands
 
 func Reset_arglist()

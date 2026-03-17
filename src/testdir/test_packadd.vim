@@ -1,3 +1,4 @@
+finish
 " Tests for 'packpath' and :packadd
 
 func SetUp()

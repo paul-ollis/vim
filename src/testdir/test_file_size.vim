@@ -1,3 +1,4 @@
+finish
 " Inserts 2 million lines with consecutive integers starting from 1
 " (essentially, the output of GNU's seq 1 2000000), writes them to Xtest
 " and writes its cksum to test.out.

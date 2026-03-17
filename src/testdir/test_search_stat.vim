@@ -1,3 +1,4 @@
+finish
 " Tests for search_stats, when "S" is not in 'shortmess'
 
 source util/screendump.vim

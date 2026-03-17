@@ -1,3 +1,4 @@
+finish
 " Tests for cursor() and other functions that get/set the cursor position
 
 func Test_wrong_arguments()

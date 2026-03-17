@@ -1,3 +1,4 @@
+finish
 source util/window_manager.vim
 
 CheckFeature wayland

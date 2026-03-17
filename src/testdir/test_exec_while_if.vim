@@ -1,3 +1,4 @@
+finish
 " Test for :execute, :while, :for and :if
 
 func Test_exec_while_if()

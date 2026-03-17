@@ -1,3 +1,4 @@
+finish
 " Test if fnameescape is correct for special chars like !
 
 func Test_fnameescape()

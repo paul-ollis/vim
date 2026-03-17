@@ -1,3 +1,4 @@
+finish
 " Test file for gettext() package makefile
 " Last Change:	2024 Jun 01
 

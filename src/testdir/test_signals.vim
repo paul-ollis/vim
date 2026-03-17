@@ -1,3 +1,4 @@
+finish
 " Test signal handling.
 
 CheckUnix

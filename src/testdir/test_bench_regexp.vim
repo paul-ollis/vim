@@ -1,3 +1,4 @@
+finish
 " Test for benchmarking the RE engine
 
 CheckFeature reltime

@@ -1,3 +1,4 @@
+finish
 " Test specifically for the Man filetype plugin.
 
 runtime ftplugin/man.vim

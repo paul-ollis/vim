@@ -1,3 +1,4 @@
+finish
 " Test :z
 
 func Test_z()

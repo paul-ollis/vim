@@ -1,3 +1,4 @@
+finish
 " Test for :mksession, :mkview and :loadview in latin1 encoding
 
 set encoding=latin1

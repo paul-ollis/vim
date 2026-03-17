@@ -1,3 +1,4 @@
+finish
 " Tests for the XDG feature
 
 func s:get_rcs()

@@ -1,3 +1,4 @@
+finish
 " Tests for various eval things.
 
 source util/shared.vim

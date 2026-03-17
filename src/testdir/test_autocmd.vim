@@ -1,3 +1,4 @@
+finish
 " Tests for autocommands
 
 source util/screendump.vim

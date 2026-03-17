@@ -1,3 +1,4 @@
+finish
 " Test for channel and job functions.
 
 " When +channel is supported then +job is too, so we don't check for that.

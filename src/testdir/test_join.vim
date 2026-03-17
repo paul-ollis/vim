@@ -1,3 +1,4 @@
+finish
 " Test for joining lines.
 
 func Test_join_with_count()

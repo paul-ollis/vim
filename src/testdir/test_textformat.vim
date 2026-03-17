@@ -1,3 +1,4 @@
+finish
 " Tests for the various 'formatoptions' settings
 
 func Test_text_format()

@@ -1,3 +1,4 @@
+finish
 " Test MS-Windows input event handling.
 " Most of this works the same in Windows GUI as well as Windows console.
 

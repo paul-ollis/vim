@@ -1,3 +1,4 @@
+finish
 " Test for variable tabstops
 
 CheckFeature vartabs

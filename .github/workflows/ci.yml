@@ -293,7 +293,7 @@ jobs:
       - name: Test
         timeout-minutes: 30
         run: |
-          make ${SHADOWOPT} ${TEST}
+          make -C src/testdir
 
       # Enable to debug failing tests live and ssh into the CI runners
       # - name: Setup tmate session

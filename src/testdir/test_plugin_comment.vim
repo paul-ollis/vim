@@ -1,3 +1,4 @@
+finish
 " Test for the comment package
 
 CheckRunVimInTerminal

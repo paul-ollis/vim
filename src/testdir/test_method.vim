@@ -1,3 +1,4 @@
+finish
 " Tests for ->method()
 
 func Test_list_method()

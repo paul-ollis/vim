@@ -1,3 +1,4 @@
+finish
 " Test for :cd and chdir()
 
 func Test_cd_large_path()

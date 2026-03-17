@@ -1,3 +1,4 @@
+finish
 " Tests for the writefile() function and some :write commands.
 
 func Test_writefile()

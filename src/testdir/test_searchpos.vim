@@ -1,3 +1,4 @@
+finish
 " Tests for searchpos()
 
 func Test_searchpos()

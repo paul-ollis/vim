@@ -1,3 +1,4 @@
+finish
 " Test for the HelpCurwin package
 
 func Test_helpcurwin_1()

@@ -1,3 +1,4 @@
+finish
 " Test the ":move" command.
 
 source util/screendump.vim

@@ -1,3 +1,4 @@
+finish
 " Test for commands that close windows and/or buffers:
 " :quit
 " :close

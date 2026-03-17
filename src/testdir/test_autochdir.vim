@@ -1,3 +1,4 @@
+finish
 " Test 'autochdir' behavior
 
 CheckOption autochdir

@@ -1,3 +1,4 @@
+finish
 " Test import/export of the Vim9 script language.
 " Also the autoload mechanism.
 

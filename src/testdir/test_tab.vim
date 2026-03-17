@@ -1,3 +1,4 @@
+finish
 " Various tests for inserting a Tab.
 
 " Tests for "r<Tab>" with 'smarttab' and 'expandtab' set/not set.

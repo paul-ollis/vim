@@ -1,3 +1,4 @@
+finish
 " Test for the HelpTOC package
 
 source util/screendump.vim

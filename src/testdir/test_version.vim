@@ -1,3 +1,4 @@
+finish
 " Test :version Ex command
 
 func Test_version()

@@ -1,3 +1,4 @@
+finish
 " Test for sleep and sleep! commands
 
 func! s:get_time_ms()

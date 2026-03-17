@@ -1,3 +1,4 @@
+finish
 " Test for reading and writing .viminfo
 
 func Test_viminfo_read_and_write()

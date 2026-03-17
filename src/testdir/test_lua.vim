@@ -1,3 +1,4 @@
+finish
 " Tests for Lua.
 
 " This test also works without the lua feature.

@@ -1,3 +1,4 @@
+finish
 " Tests for popup windows for text properties
 
 CheckFeature popupwin

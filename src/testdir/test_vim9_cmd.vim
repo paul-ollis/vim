@@ -1,3 +1,4 @@
+finish
 " Test commands that are not compiled in a :def function
 
 import './util/vim9.vim' as v9

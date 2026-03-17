@@ -1,3 +1,4 @@
+finish
 " Tests for the Vim script debug commands
 
 source util/screendump.vim

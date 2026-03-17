@@ -1,3 +1,4 @@
+finish
 " Tests for :help! {subject}
 
 func Test_help_tagjump()

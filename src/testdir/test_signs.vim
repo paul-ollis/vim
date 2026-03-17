@@ -1,3 +1,4 @@
+finish
 " Test for signs
 
 CheckFeature signs

@@ -1,3 +1,4 @@
+finish
 " Test for tabline
 
 source util/screendump.vim

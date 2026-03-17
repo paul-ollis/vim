@@ -1,3 +1,4 @@
+finish
 " Tests for getwinvar(), gettabvar(), gettabwinvar() and get().
 
 func Test_var()

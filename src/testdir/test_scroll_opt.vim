@@ -1,3 +1,4 @@
+finish
 " Test for 'scroll', 'scrolloff', 'smoothscroll', etc.
 
 source util/screendump.vim

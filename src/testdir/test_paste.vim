@@ -1,3 +1,4 @@
+finish
 " Tests for bracketed paste and other forms of pasting.
 
 " Bracketed paste only works with "xterm".  Not in GUI or Windows console.

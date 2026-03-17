@@ -1,3 +1,4 @@
+finish
 " Tests for GetLatestVimScripts plugin
 
 " vim feature

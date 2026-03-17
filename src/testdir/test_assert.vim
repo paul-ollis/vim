@@ -1,3 +1,4 @@
+finish
 " Test that the methods used for testing work.
 
 func Test_assert_false()

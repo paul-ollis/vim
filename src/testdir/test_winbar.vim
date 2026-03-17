@@ -1,3 +1,4 @@
+finish
 " Test WinBar
 
 CheckFeature menu

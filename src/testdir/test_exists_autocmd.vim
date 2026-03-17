@@ -1,3 +1,4 @@
+finish
 " Test that groups and patterns are tested correctly when calling exists() for
 " autocommands.
 

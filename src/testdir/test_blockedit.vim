@@ -1,3 +1,4 @@
+finish
 " Test for block inserting
 
 func Test_blockinsert_indent()

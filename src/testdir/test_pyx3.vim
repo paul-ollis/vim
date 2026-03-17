@@ -1,3 +1,4 @@
+finish
 " Test for pyx* commands and functions with Python 3.
 
 set pyx=3

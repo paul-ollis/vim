@@ -1,3 +1,4 @@
+finish
 " Test :wnext :wNext and :wprevious
 
 func Test_wnext()

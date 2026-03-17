@@ -1,3 +1,4 @@
+finish
 " Test for checking the source code style.
 
 let s:list_of_c_files = []

@@ -1,3 +1,4 @@
+finish
 " Test for :mksession, :mkview and :loadview in utf-8 encoding
 
 set encoding=utf-8

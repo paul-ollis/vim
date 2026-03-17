@@ -1,3 +1,4 @@
+finish
 " Test behavior of boolean-like values.
 
 " Test what is explained at ":help TRUE" and ":help FALSE".

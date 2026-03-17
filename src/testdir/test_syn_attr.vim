@@ -1,3 +1,4 @@
+finish
 " Test syntax highlighting functions.
 
 func Test_missing_attr()

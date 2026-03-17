@@ -1,3 +1,4 @@
+finish
 " Test ga normal command, and :ascii Ex command.
 
 func Do_ga(c)

@@ -1,3 +1,4 @@
+finish
 " Tests for diff mode
 
 source util/screendump.vim
@@ -1871,7 +1872,10 @@ endfunc
 func Test_diff_manipulations()
   set diff
   split 0
-  sil! norm RdoobdeuRdoobdeuRdoobdeu
+  sil! norm R
+doobdeuR
+doobdeuR
+doobdeu
 
   set nodiff
   %bwipe!

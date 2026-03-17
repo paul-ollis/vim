@@ -1,3 +1,4 @@
+finish
 " Test for the quickfix feature.
 
 import './util/vim9.vim' as v9

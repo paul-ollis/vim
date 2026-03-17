@@ -1,3 +1,4 @@
+finish
 " Tests for b:changedtick
 
 func Test_changedtick_increments()

@@ -1,3 +1,4 @@
+finish
 " Test for the shell related options ('shell', 'shellcmdflag', 'shellpipe',
 " 'shellquote', 'shellredir', 'shellxescape', and 'shellxquote')
 

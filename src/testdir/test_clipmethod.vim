@@ -1,3 +1,4 @@
+finish
 " Tests for clipmethod
 
 source util/window_manager.vim

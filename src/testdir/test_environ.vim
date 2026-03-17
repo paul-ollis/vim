@@ -1,3 +1,4 @@
+finish
 " Test for environment variables.
 
 scriptencoding utf-8

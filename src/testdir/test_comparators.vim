@@ -1,3 +1,4 @@
+finish
 " Test for comparators
 
 function Test_Comparators()

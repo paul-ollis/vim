@@ -1,3 +1,4 @@
+finish
 " Test :recover
 
 func SetUp()

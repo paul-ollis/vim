@@ -1,3 +1,4 @@
+finish
 " Tests for 'fixeol', 'eof' and 'eol'
 
 func Test_fixeol()

@@ -1,3 +1,4 @@
+finish
 " Test for wordcount() function
 
 func Test_wordcount()

@@ -1,3 +1,4 @@
+finish
 " Test the :filter command modifier
 
 func Test_filter()

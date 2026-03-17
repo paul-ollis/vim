@@ -1,3 +1,4 @@
+finish
 " Test for cursorline and cursorlineopt
 
 source util/screendump.vim

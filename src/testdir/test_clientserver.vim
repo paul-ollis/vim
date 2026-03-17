@@ -1,3 +1,4 @@
+finish
 " Tests for the +clientserver feature.
 
 CheckFeature job

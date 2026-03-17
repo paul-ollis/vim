@@ -1,3 +1,4 @@
+finish
 " Tests for the :set command
 
 function Test_set_backslash()

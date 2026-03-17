@@ -1,3 +1,4 @@
+finish
 " Test the :source! command
 
 func Test_source_utf8()

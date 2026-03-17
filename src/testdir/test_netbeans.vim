@@ -1,3 +1,4 @@
+finish
 " Test the netbeans interface.
 
 CheckFeature netbeans_intg

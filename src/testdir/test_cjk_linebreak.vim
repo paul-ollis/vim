@@ -1,3 +1,4 @@
+finish
 " Test for CJK linebreak
 
 scriptencoding utf-8

@@ -1,3 +1,4 @@
+finish
 " Tests for stat functions and checktime
 
 func CheckFileTime(doSleep)

@@ -1,3 +1,4 @@
+finish
 const s:testdir = expand("<script>:h")
 const s:runtimedir = simplify(s:testdir . '/../../runtime')
 const s:netrw_path = s:runtimedir . '/pack/dist/opt/netrw/autoload/netrw.vim'

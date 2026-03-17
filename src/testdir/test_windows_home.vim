@@ -1,3 +1,4 @@
+finish
 " Test for $HOME on Windows.
 
 CheckMSWindows

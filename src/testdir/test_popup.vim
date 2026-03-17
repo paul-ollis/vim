@@ -1,3 +1,4 @@
+finish
 " Test for completion menu
 
 source util/screendump.vim

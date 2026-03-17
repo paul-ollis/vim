@@ -1,3 +1,4 @@
+finish
 " Tests for tabpage
 
 source util/screendump.vim

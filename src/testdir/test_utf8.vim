@@ -1,3 +1,4 @@
+finish
 " Tests for Unicode manipulations
 
 source util/screendump.vim

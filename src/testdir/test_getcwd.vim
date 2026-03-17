@@ -1,3 +1,4 @@
+finish
 " Test for getcwd()
 
 func GetCwdInfo(win, tab)

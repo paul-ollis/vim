@@ -1,3 +1,4 @@
+finish
 " Test spell checking
 
 CheckFeature spell

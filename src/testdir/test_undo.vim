@@ -1,3 +1,4 @@
+finish
 " Tests for the undo tree.
 " Since this script is sourced we need to explicitly break changes up in
 " undo-able pieces.  Do that by setting 'undolevels'.

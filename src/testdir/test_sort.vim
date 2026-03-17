@@ -1,3 +1,4 @@
+finish
 " Tests for the "sort()" function and for the ":sort" command.
 
 import './util/vim9.vim' as v9

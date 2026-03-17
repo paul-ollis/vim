@@ -1,3 +1,4 @@
+finish
 " Tests for reltime()
 
 CheckFeature reltime
