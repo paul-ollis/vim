@@ -3093,4 +3093,6 @@ long elapsed(DWORD start_tick);
 #define CF_INTERFACE	2	// inside an interface
 #define CF_ABSTRACT_METHOD	4	// inside an abstract class
 
+extern FILE *fff(void);
+
 #endif // VIM__H

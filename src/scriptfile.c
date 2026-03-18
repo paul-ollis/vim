@@ -1520,6 +1520,7 @@ fopen_noinh_readbin(char *filename)
 # else
     int	fd_tmp = mch_open(filename, O_RDONLY, 0);
 # endif
+    fprintf(fff(), "Raw open '%s' fd_tmp=%d\n", filename, fd_tmp);
 
     if (fd_tmp == -1)
 	return NULL;
@@ -1686,6 +1687,7 @@ do_source_ext(
 #else
 	retval = OK;
 #endif
+	fprintf(fff(), "Autocmd sourced retval=%d\n", retval);
 	if (retval == OK)
 	    // Apply SourcePost autocommands.
 	    apply_autocmds(EVENT_SOURCEPOST, fname_exp, fname_exp,
@@ -1700,10 +1702,14 @@ do_source_ext(
     {
 #ifdef USE_FOPEN_NOINH
 	cookie.fp = fopen_noinh_readbin((char *)fname_exp);
+	fprintf(fff(), "Open[a] '%s' fp=%p\n", (char *)fname_exp, cookie.fp);
 #else
 	cookie.fp = mch_fopen((char *)fname_exp, READBIN);
+	fprintf(fff(), "Open[b] '%s' fp=%p\n", (char *)fname_exp, cookie.fp);
 #endif
     }
+    if (cookie.fp == NULL)
+	fprintf(fff(), "    errno = %d\n", errno);
     if (cookie.fp == NULL && check_other)
     {
 	// Try again, replacing file name ".vimrc" by "_vimrc" or vice versa,
@@ -1738,6 +1744,7 @@ do_source_ext(
 							SOURCING_LNUM, fname);
 	    verbose_leave();
 	}
+	fprintf(fff(), "Failed to open retval=%d\n", retval);
 	goto theend;
     }
 
@@ -1864,7 +1871,10 @@ do_source_ext(
 	sid = get_new_scriptitem(&error);
 	current_sctx.sc_sid = sid;
 	if (error == FAIL)
+	{
+	    fprintf(fff(), "Almost the end retval=%d\n", retval);
 	    goto almosttheend;
+	}
 	si = SCRIPT_ITEM(sid);
 	si->sn_name = fname_exp;
 	fname_exp = vim_strsave(si->sn_name);  // used for autocmd
@@ -1927,6 +1937,7 @@ do_source_ext(
 				     DOCMD_VERBOSE|DOCMD_NOWAIT|DOCMD_REPEAT);
     retval = OK;
 
+    fprintf(fff(), "Worked! retval=%d\n", retval);
 #ifdef FEAT_PROFILE
     if (do_profiling == PROF_YES)
     {

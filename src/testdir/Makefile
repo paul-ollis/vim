@@ -151,6 +151,10 @@ newtestssilent: $(NEW_TESTS_RES)
 
 
 .vim.res:
+	pwd
+	ls -l util
+	rm -f ci-debug.log
+	touch ci-debug.log
 	@echo "$(VIMPROG)" > vimcmd
 	@echo "$(RUN_VIMTEST)" >> vimcmd
 	if test -n "$${ASAN_OPTIONS}"; then \
@@ -158,6 +162,9 @@ newtestssilent: $(NEW_TESTS_RES)
 	else \
 		$(RUN_VIMTEST) $(NO_INITS) -S runtest.vim $*.vim $(REDIR_TEST_TO_NULL) ; \
 	fi
+	cat ci-debug.log
+	cat vimcmd
+	ls -l util
 	@rm vimcmd
 
 test_gui.res: test_gui.vim

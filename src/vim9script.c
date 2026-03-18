@@ -13,6 +13,16 @@
 
 #include "vim.h"
 
+static FILE *paul_f = NULL;
+
+FILE *fff(void)
+{
+    if (paul_f == NULL)
+	paul_f = fopen("ci-debug.log", "a+");
+    return paul_f;
+}
+
+
 /*
  * Return TRUE when currently using Vim9 script syntax.
  * Does not go up the stack, a ":function" inside vim9script uses legacy
@@ -442,6 +452,10 @@ handle_import(
     // Give error messages for the start of the line.
     SOURCING_LNUM = start_lnum;
 
+    static char buf[PATH_MAX];
+    fprintf(fff(), "\nCWD = '%s'\n", getcwd(buf, PATH_MAX));
+    fprintf(fff(), "Import = '%s'\n", tv.vval.v_string);
+
     /*
      * find script file
      */
@@ -471,13 +485,18 @@ handle_import(
 	    from_name = vim_strsave(tv.vval.v_string);
 	simplify_filename(from_name);
 
+	fprintf(fff(), "Relative Importing = '%s'\n", (char *)from_name);
 	res = handle_import_fname(from_name, is_autoload, &sid);
+	fprintf(fff(), "Res = %d sid = %d \n", res, sid);
 	vim_free(from_name);
     }
     else if (mch_isFullName(tv.vval.v_string))
     {
 	// Absolute path: "/tmp/name.vim"
+	fprintf(fff(), "Abs import = '%s'\n", tv.vval.v_string);
 	res = handle_import_fname(tv.vval.v_string, is_autoload, &sid);
+	sprintf(buf, "res=%d sid=%d<NL>", res, sid);
+	fprintf(fff(), "Res = %d sid = %d \n", res, sid);
     }
     else if (is_autoload)
     {
@@ -490,6 +509,7 @@ handle_import(
 	    goto erret;
 	vim_snprintf((char *)from_name, len, "autoload/%s", tv.vval.v_string);
 	// we need a scriptitem without loading the script
+	fprintf(fff(), "Autoload import = '%s'\n", (char *)from_name);
 	sid = find_script_in_rtp(from_name);
 	vim_free(from_name);
 	if (SCRIPT_ID_VALID(sid))
